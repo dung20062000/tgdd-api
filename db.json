@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "./assets/img/product/product-apple-macbook-air-2020-mgn63saa-(10).jpg",
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "price": "23.090.000₫",
+      "sale": "-18%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/product/iphone-13-pro-max-graphite-600x600.jpg",
+      "name": "Iphone 13 Pro Max 128GB",
+      "price": "28.490.000₫",
+      "sale": "-16%",
+      "link": "./detail-iphone13.html"
+    },
+    {
+      "id": 3,
+      "image": "./assets/img/product/acer-travelmate-b3-tmb311-31-p49d-n5030-nxvnfsv005-(20).jpg",
+      "name": "Acer TravelMate B3",
+      "price": "5.490.000₫",
+      "sale": "-58%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/product/poco-c40.jpg",
+      "name": "POCO C40",
+      "price": "3.190.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/product/realme-c21-y-4gb-(12).jpg",
+      "name": "Realme C21",
+      "price": "15.090.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/product/oppo-reno7-z-(2).jpg",
+      "name": "OPPO Reno7",
+      "price": "8.990.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/product/Galaxy-S22-Ultra-Green-600x600.jpg",
+      "name": "Samsung Galaxy S22 Ultra",
+      "price": "30.990.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/product/vivo-y21s-white-600x600.jpg",
+      "name": "Vivo Y21 6GB",
+      "price": "4.990.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/product/nokia-c21-plus.jpg",
+      "name": "Nokia C21 Plus 64GB",
+      "price": "2.890.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/product/iphone-11-(48).jpg",
+      "name": "Iphone 11 64GB",
+      "price": "12.790.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/product/realme-c11-2021-4gb-64gb-(8).jpg",
+      "name": "Realme C11 (2021) 4GB",
+      "price": "5.190.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/product/samsung-galaxy-watch-4-40mm-den-600x600.jpg",
+      "name": "Samsung Galaxy Watch 4",
+      "price": "3.990.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/product/apple-macbook-air-2020-mgn63saa-(10).jpg",
+      "name": "MacBook Air M1 2020 7",
+      "price": "23.790.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/product/lenovo-ideapad-3-15iml05-i3-81wb01dyvn-(2).jpg",
+      "name": "Lenovo IdeaPad 3",
+      "price": "9.190.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/product/apple-watch-s7-41mm-do-600x600.jpg",
+      "name": "Apple Watch Series 7",
+      "price": "9.831.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/product/283146-600x600.jpg",
+      "name": "Vòng đeo tay Mi Band 7",
+      "price": "1.190.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/product/airpods-3-hop-sac-khong-day-thumb-600x600.jpeg",
+      "name": "Tai nghe AirPods 3",
+      "price": "4.790.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/product/bluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg",
+      "name": "Tai nghe True Wireless",
+      "price": "990.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 19,
+      "image": "./assets/img/product/pin-sac-du-phong-15000mah-xmobile-la-y615n-180722-053735-600x600.jpg",
+      "name": "Pin dự phòng Xmobile",
+      "price": "470.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    },
+    {
+      "id": 20,
+      "image": "./assets/img/product/product-samsung-galaxy-a33.jpg",
+      "name": "Samsung Galaxy A33 5G",
+      "price": "7.790.000₫",
+      "sale": "-8%",
+      "link": "./detail-macbook.html"
+    }
+  ]
+}
