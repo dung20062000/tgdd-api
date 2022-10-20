@@ -24,9 +24,8 @@ server.use((req, res, next) => {
 
 // Use default router
 server.use(router)
-const PORT = process.env.PORT || 3000;
-server = app.listen(PORT, function() {
-    var host = server.address().address;
-    var port = server.address().port;
-    console.log("server is listening at http://%s:%s", host, port);
-});
+const port = process.env.port || 8080;
+app.listen(port, () => {
+    console.log(process.env.port);
+    console.log(`SERVER is running at ${port}`);
+})
